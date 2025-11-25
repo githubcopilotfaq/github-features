@@ -17,6 +17,7 @@
 
 | 功能名称 | 描述 | 支持的IDE |
 |---------|------|------|
+|[Github Copilot Chat基本功能介绍](https://docs.github.com/zh/copilot/how-tos/chat-with-copilot/chat-in-ide)|在IDE中与Copilot Chat进行交互，通过Ask，Edit，Agent和Plan模式获取代码建议|VSCode,Jetbrains,Visual Studio,Eclipes,XCode|
 |[自定义指令文件](https://github.com/orgs/githubcopilotfaq/discussions/23)|自定义指令文件，预先配置企业代码规范风格和项目背景上下文，确保Copilot生成的代码符合企业需求|VSCode,Jetbrains,Visual Studio,Eclipes,XCode|
 |[计划模式](https://github.com/orgs/githubcopilotfaq/discussions/46)|计划模式帮助Copilot 在生成代码前进行规划，提升代码质量和一致性|VSCode,Jetbrains,Visual Studio,Eclipes,XCode|
 |[自定义Agent模式](https://github.com/jacwu/github-materials/blob/main/github-copilot-lab/lab/cn/03.CustomAgent.md)|自定义Agent，用于创建企业特定功能的Agent|VSCode,Jetbrains,Eclipes,XCode|
