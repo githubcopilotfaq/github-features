@@ -27,6 +27,7 @@
 |[SpecKit规范驱动开发](https://github.com/orgs/githubcopilotfaq/discussions/43)|使用Github开源的Speckit实现规范驱动开发最佳实践|VSCode,Jetbrains,Visual Studio,Eclipes,XCode|
 |[Copilot Cli](https://github.com/orgs/githubcopilotfaq/discussions/49)|Copilot 命令行功能|Windows,MacOS,Linux|
 |[VSCode Agent模式介绍](https://github.com/orgs/githubcopilotfaq/discussions/54)|代理会话功能，支持在VSCode中对多个Agent会话进行管理|VSCode|
+|[Agent Skills介绍](https://github.com/orgs/githubcopilotfaq/discussions/58)|Agent Skills功能|VSCode|
 |[VSCode Chat调试视图](https://github.com/orgs/githubcopilotfaq/discussions/48)|在VSCode中查看Copilot Chat请求和响应的详细信息，帮助调试和优化AI交互|VSCode|
 
 
